@@ -13,7 +13,7 @@
 <!-- 1. Most Used Languages -->
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=june2301&layout=compact&title_color=268BD2&icon_color=039BE5&text_color=263238&bg_color=FAFAFA&card_width=520"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=june2301&layout=compact&title_color=268BD2&icon_color=039BE5&text_color=263238&bg_color=FAFAFA&card_width=400"
     alt="Most Used Languages"
   />
 </p>
